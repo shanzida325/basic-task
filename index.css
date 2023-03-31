@@ -38,7 +38,7 @@ body {
 
 .nav-container {
     grid-column: 1 /  13;
-    background-color: lightpink;
+    background-color: #f67af4;
     padding: 0 15px 0 30px;
 }
 
@@ -60,7 +60,7 @@ body {
 }
 
 .nav-container li a:hover {
-    background-color: rgb(255, 151, 166);
+    background-color: #f592f3;
 }
 
 .nav-search {
@@ -105,7 +105,7 @@ body {
 
 .aside-container {
     grid-column: 10 / 13;
-    background-color: lightpink;
+    background-color: #f67af4;
     padding: 20px;
 }
 
